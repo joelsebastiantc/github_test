@@ -1,2 +1,2 @@
-print("Lenguaje de Programación\nListado:\n")
-print("Profesor: Joel Torres")
+print("Lenguaje de Programación")
+print("Profesor: Joel Torres\nListado de estudiantes:\n")
